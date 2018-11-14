@@ -11,8 +11,8 @@ if you do not enter an english word that does not exist, so what it does is that
 word that matches your mistyped word!
 ![alt text](https://github.com/pks-97/Dictionary-In-Python/blob/master/test-2.png)
 
-For running the code you must have python2 installed in your system. After you have python you must have difflib in your system. Just run 
+For running the code you must have python2 installed in your system. After you have python you must have difflib in your system. Just type 
 
 pip install difflib   and you would be done.
 
-Try running the code!
+Try running the code by typing python dictionary.py to check the results!
